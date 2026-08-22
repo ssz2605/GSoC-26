@@ -1,24 +1,11 @@
----
-title: "GSoC'26 Final Report by Shreya Saxena"
-excerpt: "Performance Optimization of Music Blocks"
-category: "DEVELOPER NEWS"
-date: "2026-08-24"
-slug: "2026-08-24-gsoc-26-saxena-final-report"
-author: "@/constants/MarkdownFiles/authors/shreya-saxena.md"
-tags: "gsoc26,sugarlabs,final-report,Performance,Optimization,Music Blocks,Final Submission"
-image: "assets/Images/GSOC.webp"
----
+# GSoC'26 Final Report by Shreya Saxena
 
-<!-- markdownlint-disable -->
-
-**Author:** [Shreya Saxena](https://github.com/ssz2605)  
 **Project:** [Music Blocks Performance](https://github.com/sugarlabs/GSoC/blob/master/Ideas-2026.md#music-blocks-performance)  
 **Mentors:** [Walter Bender](https://github.com/walterbender), [Om Santosh Suneri](https://github.com/omsuneri)  
 **Organization:** [Sugar Labs](https://sugarlabs.org)  
 **Reporting Period:** May 26, 2026 – August 24, 2026
 
 ---
- 
 
 ## Abstract
 
