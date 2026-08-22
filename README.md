@@ -93,8 +93,23 @@ Developed repeatable benchmark workflows to compare performance before and after
 
 The project evolved through a measurement-first workflow:
 
-1. **Baseline & Profiling** — capture current performance characteristics before making any changes.
-2. **Bottleneck Analysis** — interpret profiling data to find the real sources of slowdown.
-3. **Targeted Optimization** — apply focused fixes to the bottlenecks identified.
-4. **Benchmark & Validate** — re-run benchmarks to confirm the changes actually helped.
-5. **Iterate & Improve** — repeat the cycle as new bottlenecks surface.
+```text
+┌──────────────────────────┐
+│  1. Baseline & Profiling │
+└─────────────┬────────────┘
+              ↓
+┌──────────────────────────┐
+│  2. Bottleneck Analysis  │
+└─────────────┬────────────┘
+              ↓
+┌──────────────────────────┐
+│  3. Targeted Optimization│
+└─────────────┬────────────┘
+              ↓
+┌──────────────────────────┐
+│  4. Benchmark & Validate │
+└─────────────┬────────────┘
+              ↓
+┌──────────────────────────┐
+│  5. Iterate & Improve    │
+└──────────────────────────┘
