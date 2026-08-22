@@ -1,4 +1,10 @@
-# GSoC'26 Final Report by Shreya Saxena
+<p align="center">
+  <img src="images/img13.png" alt="Google Summer of Code" height="90">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/img14.png" alt="Sugar Labs" height="90">
+</p>
+
+<h1 align="center">GSoC'26 Final Report by Shreya Saxena</h1>
 
 **Project:** [Music Blocks Performance](https://github.com/sugarlabs/GSoC/blob/master/Ideas-2026.md#music-blocks-performance)  
 **Mentors:** [Walter Bender](https://github.com/walterbender), [Om Santosh Suneri](https://github.com/omsuneri)  
@@ -6,6 +12,7 @@
 **Reporting Period:** May 26, 2026 – August 24, 2026
 
 ---
+
 
 ## Abstract
 
