@@ -60,7 +60,7 @@ This project focused on identifying and fixing the performance and correctness i
 
 <p align="center">
   <img
-    src="assets/Developers/shreya-saxena/1_results_before_after.png"
+   src="images/img2.jpeg"
     alt="Performance profiling and instrumentation in Music Blocks."
     width="700"
   />
@@ -96,7 +96,7 @@ The optimization work followed a structured five-step methodology, moving from e
 
 <p align="center">
   <img
-    src="assets/Developers/shreya-saxena/Runtime-optimization-plan.jpeg"
+    src="images/img3.jpeg"
     alt="Five Step optimization plan adopted for music blocks"
     width="700"
   />
@@ -113,7 +113,7 @@ I spent the first three weeks building a reliable understanding of the system be
 <p align="center">
 
   <img
-    src="assets/Developers/shreya-saxena/Benchmarking_image.jpeg"
+   src="images/img4.jpeg"
     alt="Automated performance benchmarking in Music Blocks"
     width="700"
   />
@@ -145,7 +145,7 @@ I also established three baseline tiers for general execution-time regression te
 <p align="center">
 
   <img
-    src="assets/Developers/shreya-saxena/musical-tree.jpeg"
+   src="images/img5.jpeg"
     alt="Musical Tree profiling"
     width="700"
   />
@@ -165,7 +165,7 @@ I conducted my most detailed profiling on Crabcanon-Plot, a large project combin
 <p align="center">
 
   <img
-    src="assets/Developers/shreya-saxena/Crabcanon-plot-Block-Profiling.jpeg"
+    src="image/img6.jpeg"
     alt="Crabcanon-Plot block profiling"
     width="600"
   />
@@ -185,7 +185,7 @@ My Firefox profiling provided a more specific rendering finding: `drawImage()` c
 <p align="center">
 
   <img
-    src="assets/Developers/shreya-saxena/Firefox-Perf-Graph.jpeg"
+    src="images/img7.jpeg"
     alt="Crabcanon-Plot Firefox profiling"
     width="700"
   />
@@ -221,7 +221,7 @@ Despite the sub-1% finding, targeted micro-optimizations were still worth shippi
 
 <p align="center">
   <img
-    src="assets/Developers/shreya-saxena/Performance-graph.jpeg"
+    src="images/img8.jpeg"
     alt="Crabcanon-plot playback flame graph."
     width="600"
   />
@@ -253,7 +253,7 @@ In Frère Jacques (268 notes, 4 voices), I found that `setTimeout()` callbacks c
 
 <p align="center">
   <img
-    src="assets/Developers/shreya-saxena/Scheduler-Diagram.png"
+    src="images/img9.jpeg"
     alt="Audio scheduling migration from setTimeout to Tone.Transport"
     width="700"
   />
@@ -276,7 +276,7 @@ This change substantially improved playback scheduling precision while leaving t
 
 <p align="center">
   <img
-    src="assets/Developers/shreya-saxena/Canvas_Rendering_optimization.jpeg"
+   src="images/img10.jpeg"
     alt="Canvas Rendering Optimization"
     width="700"
   />
@@ -337,7 +337,7 @@ The cleanup issue manifested as canvas distortion after repeated runs. Musical T
 
 <p align="center">
   <img
-    src="assets/Developers/shreya-saxena/Heap-Snapshot.jpeg"
+    src="images/img11.jpeg"
     alt="Heap snapshot taken during memory profiling"
     width="700"
   />
@@ -364,7 +364,7 @@ I profiled the Rainbow Connection project (5,716 blocks) and found that every on
 
 <p align="center">
   <img
-    src="assets/Developers/shreya-saxena/Load_Time_optimization.jpeg"
+    src="images/img12.jpeg"
     alt="Load and notation export optimization flow"
     width="700"
   />
