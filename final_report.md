@@ -28,7 +28,7 @@ The key optimization replaced non-zero-delay `setTimeout()` scheduling with `Ton
 
 <p align="center">
   <img
-    src="assets/Developers/shreya-saxena/Performance-Profiling.jpeg"
+   src="images/img1.jpeg"
     alt="Performance profiling and instrumentation in Music Blocks."
     width="700"
   />
