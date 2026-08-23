@@ -488,7 +488,7 @@ LilyPond, ABC, MusicXML, and MIDI export all re-run the block program through th
 | 9 | 2026-07-27 | [GSoC Alumni Camp & Project Progress](https://github.com/sugarlabs/www-v2/pull/984) |
 | 10 | 2026-08-03 | [Project Load Time Optimization & Note Duplication Fix](https://github.com/sugarlabs/www-v2/pull/996) |
 | 11 | 2026-08-10 | [23× Notation Export Speedup](https://github.com/sugarlabs/www-v2/pull/1005) |
-| 12 | 2026-08-24 | [Final Results & Project Report](https://github.com/sugarlabs/www-v2/pull/1032)|
+| 12 | 2026-08-23 | [Final Results & Project Report](https://github.com/sugarlabs/www-v2/pull/1032)|
 
 ---
 
